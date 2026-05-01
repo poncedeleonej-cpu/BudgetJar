@@ -23,7 +23,7 @@ Our vision is to bank the unbanked by providing a high-fidelity financial discip
 
 ## ## Contract Details
 * **Network:** Stellar Testnet[cite: 1]
-* **Contract ID:** `CAJDBLMNMXGXW7ZM3B573QWUPFIKUHGRLDJ74LHJ7OHVPMALA3RSYAFV`
+* **Contract ID:** `CCSK7HJQGBN4DYKMHX4BSU4AEIL7EUKXPWOKFLNDI5EI2G3VE3IDXJBZ`
 * **Wasm Hash:** `[Insert your WASM hash here]`[cite: 1]
 
 ![screenshot](screenshot.png)
